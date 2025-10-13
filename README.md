@@ -1,6 +1,6 @@
 # Dự án WebKaraoke
 
-Hệ thống quản lý quán karaoke trên nền tảng web, được phát triển cho môn học Nhập môn Công nghệ Phần mềm. Dự án cho phép khách hàng đặt phòng, gọi món và nhân viên quản lý vận hành.
+Hệ thống quản lý quán karaoke trên nền tảng web, đồ án cuối kỳ môn học Nhập môn Công nghệ Phần mềm HCMUE. Dự án cho phép khách hàng đặt phòng, gọi món và nhân viên quản lý vận hành.
 
 ## Công nghệ sử dụng
 
@@ -12,7 +12,7 @@ Hệ thống quản lý quán karaoke trên nền tảng web, được phát tri
 
 ## Yêu cầu cài đặt
 
-Trước khi bắt đầu, hãy đảm bảo bạn đã cài đặt các công cụ sau:
+Trước khi bắt đầu, hãy đảm bảo các công cụ sau đã được cài đặt:
 * .NET 8 SDK (hoặc phiên bản tương ứng với project)
 * SQL Server Express (hoặc phiên bản bất kỳ)
 * Một trình soạn thảo code như Visual Studio hoặc VS Code
@@ -25,9 +25,9 @@ Trước khi bắt đầu, hãy đảm bảo bạn đã cài đặt các công c
     cd WebKaraoke
     ```
 
-2.  **Cấu hình kết nối CSDL:**
+2.  **Cấu hình kết nối Database:**
     * Mở file `WebKaraoke.API/appsettings.json`.
-    * Cập nhật chuỗi kết nối `DefaultConnection` với thông tin SQL Server của bạn.
+    * Cập nhật chuỗi kết nối `DefaultConnection` với thông tin SQL Server của người dùng.
     ```json
     "ConnectionStrings": {
       "DefaultConnection": "Server=TEN_SERVER_CUA_BAN;Database=WebKaraokeDB;Trusted_Connection=True;MultipleActiveResultSets=true;TrustServerCertificate=True"
@@ -35,7 +35,7 @@ Trước khi bắt đầu, hãy đảm bảo bạn đã cài đặt các công c
     ```
 
 3.  **Cài đặt CSDL:**
-    * Chạy script SQL để tạo CSDL (file này sẽ được đặt tại `/database-scripts/init.sql` - bạn sẽ tạo file này sau) trên SQL Server để tạo database và các bảng cần thiết.
+    * Chạy script SQL để tạo CSDL (file này sẽ được đặt tại `/database-scripts/init.sql` - người dùng sẽ tạo file này sau) trên SQL Server để tạo database và các bảng cần thiết.
 
 4.  **Xây dựng và chạy dự án:**
     * Mở terminal trong thư mục `WebKaraoke.API`.
@@ -43,5 +43,6 @@ Trước khi bắt đầu, hãy đảm bảo bạn đã cài đặt các công c
     ```bash
     dotnet run
     ```
-    * API sẽ chạy trên địa chỉ `https://localhost:
+    * API sẽ chạy trên địa chỉ 'https://localhost:xxxx'..
+
 

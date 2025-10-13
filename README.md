@@ -6,7 +6,7 @@ Hệ thống quản lý quán karaoke trên nền tảng web, được phát tri
 
 * **Backend:** ASP.NET Core Web API (C#)
 * **Frontend:** HTML, CSS, TypeScript
-* **CSDL (Database):** Microsoft SQL Server
+* **Database:** Microsoft SQL Server
 * **Kiến trúc:** 3 lớp (Presentation, Business Logic, Data Access)
 * **ORM:** Entity Framework Core
 
@@ -44,3 +44,4 @@ Trước khi bắt đầu, hãy đảm bảo bạn đã cài đặt các công c
     dotnet run
     ```
     * API sẽ chạy trên địa chỉ `https://localhost:
+

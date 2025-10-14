@@ -1,0 +1,12 @@
+/home/runner/work/WebKaraoke/WebKaraoke/WebKaraoke.DTO/bin/Debug/net9.0/WebKaraoke.DTO.deps.json
+/home/runner/work/WebKaraoke/WebKaraoke/WebKaraoke.DTO/bin/Debug/net9.0/WebKaraoke.DTO.dll
+/home/runner/work/WebKaraoke/WebKaraoke/WebKaraoke.DTO/bin/Debug/net9.0/WebKaraoke.DTO.pdb
+/home/runner/work/WebKaraoke/WebKaraoke/WebKaraoke.DTO/obj/Debug/net9.0/WebKaraoke.DTO.GeneratedMSBuildEditorConfig.editorconfig
+/home/runner/work/WebKaraoke/WebKaraoke/WebKaraoke.DTO/obj/Debug/net9.0/WebKaraoke.DTO.AssemblyInfoInputs.cache
+/home/runner/work/WebKaraoke/WebKaraoke/WebKaraoke.DTO/obj/Debug/net9.0/WebKaraoke.DTO.AssemblyInfo.cs
+/home/runner/work/WebKaraoke/WebKaraoke/WebKaraoke.DTO/obj/Debug/net9.0/WebKaraoke.DTO.csproj.CoreCompileInputs.cache
+/home/runner/work/WebKaraoke/WebKaraoke/WebKaraoke.DTO/obj/Debug/net9.0/WebKaraoke.DTO.sourcelink.json
+/home/runner/work/WebKaraoke/WebKaraoke/WebKaraoke.DTO/obj/Debug/net9.0/WebKaraoke.DTO.dll
+/home/runner/work/WebKaraoke/WebKaraoke/WebKaraoke.DTO/obj/Debug/net9.0/refint/WebKaraoke.DTO.dll
+/home/runner/work/WebKaraoke/WebKaraoke/WebKaraoke.DTO/obj/Debug/net9.0/WebKaraoke.DTO.pdb
+/home/runner/work/WebKaraoke/WebKaraoke/WebKaraoke.DTO/obj/Debug/net9.0/ref/WebKaraoke.DTO.dll

@@ -158,7 +158,7 @@ dotnet clean
 ## ❓ If You Have Questions
 
 - Check NEXT_STEPS.md for detailed implementation guide
-- Refer to official docs: https://docs.microsoft.com/en-us/ef/core/
+- Refer to official docs: https://learn.microsoft.com/en-us/ef/core/
 - Review the README.md for project overview
 
 Good luck with your WebKaraoke project! 🎤🎵

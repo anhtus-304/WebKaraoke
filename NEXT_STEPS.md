@@ -551,9 +551,9 @@ dotnet run
 
 ## 📚 Tài Liệu Tham Khảo
 
-- [Entity Framework Core Documentation](https://docs.microsoft.com/en-us/ef/core/)
-- [ASP.NET Core Web API](https://docs.microsoft.com/en-us/aspnet/core/web-api/)
-- [Repository Pattern](https://docs.microsoft.com/en-us/dotnet/architecture/microservices/microservice-ddd-cqrs-patterns/infrastructure-persistence-layer-design)
+- [Entity Framework Core Documentation](https://learn.microsoft.com/en-us/ef/core/)
+- [ASP.NET Core Web API](https://learn.microsoft.com/en-us/aspnet/core/web-api/)
+- [Repository Pattern](https://learn.microsoft.com/en-us/dotnet/architecture/microservices/microservice-ddd-cqrs-patterns/infrastructure-persistence-layer-design)
 
 ## 💡 Tips
 

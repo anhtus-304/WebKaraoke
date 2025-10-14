@@ -1,0 +1,190 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\hoanh\\Documents\\HCMUE\\2025-2026-1st Semester\\COMP1044-CNPM\\Karaoke\\WebKaraoke\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{08152275-1CF0-4E33-8DEF-B783AF7D3FD3}|WebKaraoke.API\\WebKaraoke.API.csproj|c:\\users\\hoanh\\documents\\hcmue\\2025-2026-1st semester\\comp1044-cnpm\\karaoke\\webkaraoke\\webkaraoke.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08152275-1CF0-4E33-8DEF-B783AF7D3FD3}|WebKaraoke.API\\WebKaraoke.API.csproj|solutionrelative:webkaraoke.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08152275-1CF0-4E33-8DEF-B783AF7D3FD3}|WebKaraoke.API\\WebKaraoke.API.csproj|c:\\users\\hoanh\\documents\\hcmue\\2025-2026-1st semester\\comp1044-cnpm\\karaoke\\webkaraoke\\webkaraoke.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{08152275-1CF0-4E33-8DEF-B783AF7D3FD3}|WebKaraoke.API\\WebKaraoke.API.csproj|solutionrelative:webkaraoke.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE146AAC-0BB4-44AE-B79F-C5729FB1A12B}|WebKaraoke.Data\\WebKaraoke.Data.csproj|c:\\users\\hoanh\\documents\\hcmue\\2025-2026-1st semester\\comp1044-cnpm\\karaoke\\webkaraoke\\webkaraoke.data\\entities\\monannuocuong.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE146AAC-0BB4-44AE-B79F-C5729FB1A12B}|WebKaraoke.Data\\WebKaraoke.Data.csproj|solutionrelative:webkaraoke.data\\entities\\monannuocuong.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE146AAC-0BB4-44AE-B79F-C5729FB1A12B}|WebKaraoke.Data\\WebKaraoke.Data.csproj|c:\\users\\hoanh\\documents\\hcmue\\2025-2026-1st semester\\comp1044-cnpm\\karaoke\\webkaraoke\\webkaraoke.data\\entities\\khuyenmai.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE146AAC-0BB4-44AE-B79F-C5729FB1A12B}|WebKaraoke.Data\\WebKaraoke.Data.csproj|solutionrelative:webkaraoke.data\\entities\\khuyenmai.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE146AAC-0BB4-44AE-B79F-C5729FB1A12B}|WebKaraoke.Data\\WebKaraoke.Data.csproj|c:\\users\\hoanh\\documents\\hcmue\\2025-2026-1st semester\\comp1044-cnpm\\karaoke\\webkaraoke\\webkaraoke.data\\webkaraokedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE146AAC-0BB4-44AE-B79F-C5729FB1A12B}|WebKaraoke.Data\\WebKaraoke.Data.csproj|solutionrelative:webkaraoke.data\\webkaraokedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE146AAC-0BB4-44AE-B79F-C5729FB1A12B}|WebKaraoke.Data\\WebKaraoke.Data.csproj|c:\\users\\hoanh\\documents\\hcmue\\2025-2026-1st semester\\comp1044-cnpm\\karaoke\\webkaraoke\\webkaraoke.data\\webkaraoke.data.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{BE146AAC-0BB4-44AE-B79F-C5729FB1A12B}|WebKaraoke.Data\\WebKaraoke.Data.csproj|solutionrelative:webkaraoke.data\\webkaraoke.data.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE146AAC-0BB4-44AE-B79F-C5729FB1A12B}|WebKaraoke.Data\\WebKaraoke.Data.csproj|c:\\users\\hoanh\\documents\\hcmue\\2025-2026-1st semester\\comp1044-cnpm\\karaoke\\webkaraoke\\webkaraoke.data\\entities\\chitiethoadon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE146AAC-0BB4-44AE-B79F-C5729FB1A12B}|WebKaraoke.Data\\WebKaraoke.Data.csproj|solutionrelative:webkaraoke.data\\entities\\chitiethoadon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08152275-1CF0-4E33-8DEF-B783AF7D3FD3}|WebKaraoke.API\\WebKaraoke.API.csproj|c:\\users\\hoanh\\documents\\hcmue\\2025-2026-1st semester\\comp1044-cnpm\\karaoke\\webkaraoke\\webkaraoke.api\\webkaraoke.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{08152275-1CF0-4E33-8DEF-B783AF7D3FD3}|WebKaraoke.API\\WebKaraoke.API.csproj|solutionrelative:webkaraoke.api\\webkaraoke.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{4a9b7e51-aa16-11d0-a8c5-00a0c921a4d2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{4a8466fe-5a05-4f81-ad45-7d7c1316817e}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\hoanh\\Documents\\HCMUE\\2025-2026-1st Semester\\COMP1044-CNPM\\Karaoke\\WebKaraoke\\WebKaraoke.API\\appsettings.json",
+              "RelativeDocumentMoniker": "WebKaraoke.API\\appsettings.json",
+              "ToolTip": "C:\\Users\\hoanh\\Documents\\HCMUE\\2025-2026-1st Semester\\COMP1044-CNPM\\Karaoke\\WebKaraoke\\WebKaraoke.API\\appsettings.json",
+              "RelativeToolTip": "WebKaraoke.API\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-10-14T16:32:01.529Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\hoanh\\Documents\\HCMUE\\2025-2026-1st Semester\\COMP1044-CNPM\\Karaoke\\WebKaraoke\\WebKaraoke.API\\Program.cs",
+              "RelativeDocumentMoniker": "WebKaraoke.API\\Program.cs",
+              "ToolTip": "C:\\Users\\hoanh\\Documents\\HCMUE\\2025-2026-1st Semester\\COMP1044-CNPM\\Karaoke\\WebKaraoke\\WebKaraoke.API\\Program.cs",
+              "RelativeToolTip": "WebKaraoke.API\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAACIAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-14T16:01:24.86Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MonAnNuocUong.cs",
+              "DocumentMoniker": "C:\\Users\\hoanh\\Documents\\HCMUE\\2025-2026-1st Semester\\COMP1044-CNPM\\Karaoke\\WebKaraoke\\WebKaraoke.Data\\Entities\\MonAnNuocUong.cs",
+              "RelativeDocumentMoniker": "WebKaraoke.Data\\Entities\\MonAnNuocUong.cs",
+              "ToolTip": "C:\\Users\\hoanh\\Documents\\HCMUE\\2025-2026-1st Semester\\COMP1044-CNPM\\Karaoke\\WebKaraoke\\WebKaraoke.Data\\Entities\\MonAnNuocUong.cs",
+              "RelativeToolTip": "WebKaraoke.Data\\Entities\\MonAnNuocUong.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-14T16:30:02.22Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "KhuyenMai.cs",
+              "DocumentMoniker": "C:\\Users\\hoanh\\Documents\\HCMUE\\2025-2026-1st Semester\\COMP1044-CNPM\\Karaoke\\WebKaraoke\\WebKaraoke.Data\\Entities\\KhuyenMai.cs",
+              "RelativeDocumentMoniker": "WebKaraoke.Data\\Entities\\KhuyenMai.cs",
+              "ToolTip": "C:\\Users\\hoanh\\Documents\\HCMUE\\2025-2026-1st Semester\\COMP1044-CNPM\\Karaoke\\WebKaraoke\\WebKaraoke.Data\\Entities\\KhuyenMai.cs",
+              "RelativeToolTip": "WebKaraoke.Data\\Entities\\KhuyenMai.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-14T16:28:54.853Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "WebKaraokeDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\hoanh\\Documents\\HCMUE\\2025-2026-1st Semester\\COMP1044-CNPM\\Karaoke\\WebKaraoke\\WebKaraoke.Data\\WebKaraokeDbContext.cs",
+              "RelativeDocumentMoniker": "WebKaraoke.Data\\WebKaraokeDbContext.cs",
+              "ToolTip": "C:\\Users\\hoanh\\Documents\\HCMUE\\2025-2026-1st Semester\\COMP1044-CNPM\\Karaoke\\WebKaraoke\\WebKaraoke.Data\\WebKaraokeDbContext.cs",
+              "RelativeToolTip": "WebKaraoke.Data\\WebKaraokeDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-14T16:25:57.661Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ChiTietHoaDon.cs",
+              "DocumentMoniker": "C:\\Users\\hoanh\\Documents\\HCMUE\\2025-2026-1st Semester\\COMP1044-CNPM\\Karaoke\\WebKaraoke\\WebKaraoke.Data\\Entities\\ChiTietHoaDon.cs",
+              "RelativeDocumentMoniker": "WebKaraoke.Data\\Entities\\ChiTietHoaDon.cs",
+              "ToolTip": "C:\\Users\\hoanh\\Documents\\HCMUE\\2025-2026-1st Semester\\COMP1044-CNPM\\Karaoke\\WebKaraoke\\WebKaraoke.Data\\Entities\\ChiTietHoaDon.cs",
+              "RelativeToolTip": "WebKaraoke.Data\\Entities\\ChiTietHoaDon.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-14T16:25:36.491Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "WebKaraoke.Data",
+              "DocumentMoniker": "C:\\Users\\hoanh\\Documents\\HCMUE\\2025-2026-1st Semester\\COMP1044-CNPM\\Karaoke\\WebKaraoke\\WebKaraoke.Data\\WebKaraoke.Data.csproj",
+              "RelativeDocumentMoniker": "WebKaraoke.Data\\WebKaraoke.Data.csproj",
+              "ToolTip": "C:\\Users\\hoanh\\Documents\\HCMUE\\2025-2026-1st Semester\\COMP1044-CNPM\\Karaoke\\WebKaraoke\\WebKaraoke.Data\\WebKaraoke.Data.csproj",
+              "RelativeToolTip": "WebKaraoke.Data\\WebKaraoke.Data.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-10-14T16:25:25.16Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "WebKaraoke.API",
+              "DocumentMoniker": "C:\\Users\\hoanh\\Documents\\HCMUE\\2025-2026-1st Semester\\COMP1044-CNPM\\Karaoke\\WebKaraoke\\WebKaraoke.API\\WebKaraoke.API.csproj",
+              "RelativeDocumentMoniker": "WebKaraoke.API\\WebKaraoke.API.csproj",
+              "ToolTip": "C:\\Users\\hoanh\\Documents\\HCMUE\\2025-2026-1st Semester\\COMP1044-CNPM\\Karaoke\\WebKaraoke\\WebKaraoke.API\\WebKaraoke.API.csproj",
+              "RelativeToolTip": "WebKaraoke.API\\WebKaraoke.API.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-10-14T16:01:16.532Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

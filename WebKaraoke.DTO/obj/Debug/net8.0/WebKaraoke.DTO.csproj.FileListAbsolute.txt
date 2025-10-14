@@ -1,0 +1,12 @@
+C:\Users\hoanh\Documents\HCMUE\2025-2026-1st Semester\COMP1044-CNPM\Karaoke\WebKaraoke\WebKaraoke.DTO\bin\Debug\net8.0\WebKaraoke.DTO.deps.json
+C:\Users\hoanh\Documents\HCMUE\2025-2026-1st Semester\COMP1044-CNPM\Karaoke\WebKaraoke\WebKaraoke.DTO\bin\Debug\net8.0\WebKaraoke.DTO.dll
+C:\Users\hoanh\Documents\HCMUE\2025-2026-1st Semester\COMP1044-CNPM\Karaoke\WebKaraoke\WebKaraoke.DTO\bin\Debug\net8.0\WebKaraoke.DTO.pdb
+C:\Users\hoanh\Documents\HCMUE\2025-2026-1st Semester\COMP1044-CNPM\Karaoke\WebKaraoke\WebKaraoke.DTO\obj\Debug\net8.0\WebKaraoke.DTO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hoanh\Documents\HCMUE\2025-2026-1st Semester\COMP1044-CNPM\Karaoke\WebKaraoke\WebKaraoke.DTO\obj\Debug\net8.0\WebKaraoke.DTO.AssemblyInfoInputs.cache
+C:\Users\hoanh\Documents\HCMUE\2025-2026-1st Semester\COMP1044-CNPM\Karaoke\WebKaraoke\WebKaraoke.DTO\obj\Debug\net8.0\WebKaraoke.DTO.AssemblyInfo.cs
+C:\Users\hoanh\Documents\HCMUE\2025-2026-1st Semester\COMP1044-CNPM\Karaoke\WebKaraoke\WebKaraoke.DTO\obj\Debug\net8.0\WebKaraoke.DTO.csproj.CoreCompileInputs.cache
+C:\Users\hoanh\Documents\HCMUE\2025-2026-1st Semester\COMP1044-CNPM\Karaoke\WebKaraoke\WebKaraoke.DTO\obj\Debug\net8.0\WebKaraoke.DTO.sourcelink.json
+C:\Users\hoanh\Documents\HCMUE\2025-2026-1st Semester\COMP1044-CNPM\Karaoke\WebKaraoke\WebKaraoke.DTO\obj\Debug\net8.0\WebKaraoke.DTO.dll
+C:\Users\hoanh\Documents\HCMUE\2025-2026-1st Semester\COMP1044-CNPM\Karaoke\WebKaraoke\WebKaraoke.DTO\obj\Debug\net8.0\refint\WebKaraoke.DTO.dll
+C:\Users\hoanh\Documents\HCMUE\2025-2026-1st Semester\COMP1044-CNPM\Karaoke\WebKaraoke\WebKaraoke.DTO\obj\Debug\net8.0\WebKaraoke.DTO.pdb
+C:\Users\hoanh\Documents\HCMUE\2025-2026-1st Semester\COMP1044-CNPM\Karaoke\WebKaraoke\WebKaraoke.DTO\obj\Debug\net8.0\ref\WebKaraoke.DTO.dll

@@ -1,0 +1,15 @@
+C:\Users\hoanh\Documents\HCMUE\2025-2026-1st Semester\COMP1044-CNPM\Karaoke\WebKaraoke\WebKaraoke.Data\bin\Debug\net8.0\WebKaraoke.Data.deps.json
+C:\Users\hoanh\Documents\HCMUE\2025-2026-1st Semester\COMP1044-CNPM\Karaoke\WebKaraoke\WebKaraoke.Data\bin\Debug\net8.0\WebKaraoke.Data.runtimeconfig.json
+C:\Users\hoanh\Documents\HCMUE\2025-2026-1st Semester\COMP1044-CNPM\Karaoke\WebKaraoke\WebKaraoke.Data\bin\Debug\net8.0\WebKaraoke.Data.dll
+C:\Users\hoanh\Documents\HCMUE\2025-2026-1st Semester\COMP1044-CNPM\Karaoke\WebKaraoke\WebKaraoke.Data\bin\Debug\net8.0\WebKaraoke.Data.pdb
+C:\Users\hoanh\Documents\HCMUE\2025-2026-1st Semester\COMP1044-CNPM\Karaoke\WebKaraoke\WebKaraoke.Data\obj\Debug\net8.0\WebKaraoke.Data.csproj.AssemblyReference.cache
+C:\Users\hoanh\Documents\HCMUE\2025-2026-1st Semester\COMP1044-CNPM\Karaoke\WebKaraoke\WebKaraoke.Data\obj\Debug\net8.0\WebKaraoke.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hoanh\Documents\HCMUE\2025-2026-1st Semester\COMP1044-CNPM\Karaoke\WebKaraoke\WebKaraoke.Data\obj\Debug\net8.0\WebKaraoke.Data.AssemblyInfoInputs.cache
+C:\Users\hoanh\Documents\HCMUE\2025-2026-1st Semester\COMP1044-CNPM\Karaoke\WebKaraoke\WebKaraoke.Data\obj\Debug\net8.0\WebKaraoke.Data.AssemblyInfo.cs
+C:\Users\hoanh\Documents\HCMUE\2025-2026-1st Semester\COMP1044-CNPM\Karaoke\WebKaraoke\WebKaraoke.Data\obj\Debug\net8.0\WebKaraoke.Data.csproj.CoreCompileInputs.cache
+C:\Users\hoanh\Documents\HCMUE\2025-2026-1st Semester\COMP1044-CNPM\Karaoke\WebKaraoke\WebKaraoke.Data\obj\Debug\net8.0\WebKaraoke.Data.sourcelink.json
+C:\Users\hoanh\Documents\HCMUE\2025-2026-1st Semester\COMP1044-CNPM\Karaoke\WebKaraoke\WebKaraoke.Data\obj\Debug\net8.0\WebKaraoke.Data.dll
+C:\Users\hoanh\Documents\HCMUE\2025-2026-1st Semester\COMP1044-CNPM\Karaoke\WebKaraoke\WebKaraoke.Data\obj\Debug\net8.0\refint\WebKaraoke.Data.dll
+C:\Users\hoanh\Documents\HCMUE\2025-2026-1st Semester\COMP1044-CNPM\Karaoke\WebKaraoke\WebKaraoke.Data\obj\Debug\net8.0\WebKaraoke.Data.pdb
+C:\Users\hoanh\Documents\HCMUE\2025-2026-1st Semester\COMP1044-CNPM\Karaoke\WebKaraoke\WebKaraoke.Data\obj\Debug\net8.0\WebKaraoke.Data.genruntimeconfig.cache
+C:\Users\hoanh\Documents\HCMUE\2025-2026-1st Semester\COMP1044-CNPM\Karaoke\WebKaraoke\WebKaraoke.Data\obj\Debug\net8.0\ref\WebKaraoke.Data.dll

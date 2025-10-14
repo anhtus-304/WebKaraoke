@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "nmiYVbyP30WadRrZVMPZOX/0rYSe3K0NBpfu++ZdGLc=",
+  "Source": "WebKaraoke.API",
+  "BasePath": "_content/WebKaraoke.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

@@ -16,3 +16,21 @@ C:\Users\hoanh\Documents\HCMUE\2025-2026-1st Semester\COMP1044-CNPM\Karaoke\WebK
 C:\Users\hoanh\Documents\HCMUE\2025-2026-1st Semester\COMP1044-CNPM\Karaoke\WebKaraoke\WebKaraoke.Business\obj\Debug\net8.0\refint\WebKaraoke.Business.dll
 C:\Users\hoanh\Documents\HCMUE\2025-2026-1st Semester\COMP1044-CNPM\Karaoke\WebKaraoke\WebKaraoke.Business\obj\Debug\net8.0\WebKaraoke.Business.pdb
 C:\Users\hoanh\Documents\HCMUE\2025-2026-1st Semester\COMP1044-CNPM\Karaoke\WebKaraoke\WebKaraoke.Business\obj\Debug\net8.0\ref\WebKaraoke.Business.dll
+D:\WebKaraoke\WebKaraoke.Business\bin\Debug\net8.0\WebKaraoke.Business.deps.json
+D:\WebKaraoke\WebKaraoke.Business\bin\Debug\net8.0\WebKaraoke.Business.dll
+D:\WebKaraoke\WebKaraoke.Business\bin\Debug\net8.0\WebKaraoke.Business.pdb
+D:\WebKaraoke\WebKaraoke.Business\bin\Debug\net8.0\WebKaraoke.Data.dll
+D:\WebKaraoke\WebKaraoke.Business\bin\Debug\net8.0\WebKaraoke.DTO.dll
+D:\WebKaraoke\WebKaraoke.Business\bin\Debug\net8.0\WebKaraoke.Data.pdb
+D:\WebKaraoke\WebKaraoke.Business\bin\Debug\net8.0\WebKaraoke.DTO.pdb
+D:\WebKaraoke\WebKaraoke.Business\obj\Debug\net8.0\WebKaraoke.Business.csproj.AssemblyReference.cache
+D:\WebKaraoke\WebKaraoke.Business\obj\Debug\net8.0\WebKaraoke.Business.GeneratedMSBuildEditorConfig.editorconfig
+D:\WebKaraoke\WebKaraoke.Business\obj\Debug\net8.0\WebKaraoke.Business.AssemblyInfoInputs.cache
+D:\WebKaraoke\WebKaraoke.Business\obj\Debug\net8.0\WebKaraoke.Business.AssemblyInfo.cs
+D:\WebKaraoke\WebKaraoke.Business\obj\Debug\net8.0\WebKaraoke.Business.csproj.CoreCompileInputs.cache
+D:\WebKaraoke\WebKaraoke.Business\obj\Debug\net8.0\WebKaraoke.Business.sourcelink.json
+D:\WebKaraoke\WebKaraoke.Business\obj\Debug\net8.0\WebKarao.6B9AE8F3.Up2Date
+D:\WebKaraoke\WebKaraoke.Business\obj\Debug\net8.0\WebKaraoke.Business.dll
+D:\WebKaraoke\WebKaraoke.Business\obj\Debug\net8.0\refint\WebKaraoke.Business.dll
+D:\WebKaraoke\WebKaraoke.Business\obj\Debug\net8.0\WebKaraoke.Business.pdb
+D:\WebKaraoke\WebKaraoke.Business\obj\Debug\net8.0\ref\WebKaraoke.Business.dll

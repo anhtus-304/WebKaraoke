@@ -10,3 +10,15 @@ C:\Users\hoanh\Documents\HCMUE\2025-2026-1st Semester\COMP1044-CNPM\Karaoke\WebK
 C:\Users\hoanh\Documents\HCMUE\2025-2026-1st Semester\COMP1044-CNPM\Karaoke\WebKaraoke\WebKaraoke.DTO\obj\Debug\net8.0\refint\WebKaraoke.DTO.dll
 C:\Users\hoanh\Documents\HCMUE\2025-2026-1st Semester\COMP1044-CNPM\Karaoke\WebKaraoke\WebKaraoke.DTO\obj\Debug\net8.0\WebKaraoke.DTO.pdb
 C:\Users\hoanh\Documents\HCMUE\2025-2026-1st Semester\COMP1044-CNPM\Karaoke\WebKaraoke\WebKaraoke.DTO\obj\Debug\net8.0\ref\WebKaraoke.DTO.dll
+D:\WebKaraoke\WebKaraoke.DTO\bin\Debug\net8.0\WebKaraoke.DTO.deps.json
+D:\WebKaraoke\WebKaraoke.DTO\bin\Debug\net8.0\WebKaraoke.DTO.dll
+D:\WebKaraoke\WebKaraoke.DTO\bin\Debug\net8.0\WebKaraoke.DTO.pdb
+D:\WebKaraoke\WebKaraoke.DTO\obj\Debug\net8.0\WebKaraoke.DTO.GeneratedMSBuildEditorConfig.editorconfig
+D:\WebKaraoke\WebKaraoke.DTO\obj\Debug\net8.0\WebKaraoke.DTO.AssemblyInfoInputs.cache
+D:\WebKaraoke\WebKaraoke.DTO\obj\Debug\net8.0\WebKaraoke.DTO.AssemblyInfo.cs
+D:\WebKaraoke\WebKaraoke.DTO\obj\Debug\net8.0\WebKaraoke.DTO.csproj.CoreCompileInputs.cache
+D:\WebKaraoke\WebKaraoke.DTO\obj\Debug\net8.0\WebKaraoke.DTO.sourcelink.json
+D:\WebKaraoke\WebKaraoke.DTO\obj\Debug\net8.0\WebKaraoke.DTO.dll
+D:\WebKaraoke\WebKaraoke.DTO\obj\Debug\net8.0\refint\WebKaraoke.DTO.dll
+D:\WebKaraoke\WebKaraoke.DTO\obj\Debug\net8.0\WebKaraoke.DTO.pdb
+D:\WebKaraoke\WebKaraoke.DTO\obj\Debug\net8.0\ref\WebKaraoke.DTO.dll

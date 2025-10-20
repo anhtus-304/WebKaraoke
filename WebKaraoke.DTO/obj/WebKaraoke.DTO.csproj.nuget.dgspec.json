@@ -1,31 +1,25 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\hoanh\\Documents\\HCMUE\\2025-2026-1st Semester\\COMP1044-CNPM\\Karaoke\\WebKaraoke\\WebKaraoke.DTO\\WebKaraoke.DTO.csproj": {}
+    "D:\\WebKaraoke\\WebKaraoke.DTO\\WebKaraoke.DTO.csproj": {}
   },
   "projects": {
-    "C:\\Users\\hoanh\\Documents\\HCMUE\\2025-2026-1st Semester\\COMP1044-CNPM\\Karaoke\\WebKaraoke\\WebKaraoke.DTO\\WebKaraoke.DTO.csproj": {
+    "D:\\WebKaraoke\\WebKaraoke.DTO\\WebKaraoke.DTO.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\hoanh\\Documents\\HCMUE\\2025-2026-1st Semester\\COMP1044-CNPM\\Karaoke\\WebKaraoke\\WebKaraoke.DTO\\WebKaraoke.DTO.csproj",
+        "projectUniqueName": "D:\\WebKaraoke\\WebKaraoke.DTO\\WebKaraoke.DTO.csproj",
         "projectName": "WebKaraoke.DTO",
-        "projectPath": "C:\\Users\\hoanh\\Documents\\HCMUE\\2025-2026-1st Semester\\COMP1044-CNPM\\Karaoke\\WebKaraoke\\WebKaraoke.DTO\\WebKaraoke.DTO.csproj",
-        "packagesPath": "C:\\Users\\hoanh\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\hoanh\\Documents\\HCMUE\\2025-2026-1st Semester\\COMP1044-CNPM\\Karaoke\\WebKaraoke\\WebKaraoke.DTO\\obj\\",
+        "projectPath": "D:\\WebKaraoke\\WebKaraoke.DTO\\WebKaraoke.DTO.csproj",
+        "packagesPath": "C:\\Users\\atusj\\.nuget\\packages\\",
+        "outputPath": "D:\\WebKaraoke\\WebKaraoke.DTO\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\hoanh\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Users\\atusj\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {

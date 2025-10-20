@@ -914,7 +914,8 @@
       "WebKaraoke.Data/1.0.0": {
         "dependencies": {
           "Microsoft.EntityFrameworkCore.SqlServer": "8.0.0",
-          "Microsoft.EntityFrameworkCore.Tools": "8.0.0"
+          "Microsoft.EntityFrameworkCore.Tools": "8.0.0",
+          "WebKaraoke.DTO": "1.0.0"
         },
         "runtime": {
           "WebKaraoke.Data.dll": {

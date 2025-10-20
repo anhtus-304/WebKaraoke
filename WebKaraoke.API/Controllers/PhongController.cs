@@ -1,25 +1,96 @@
 using Microsoft.AspNetCore.Mvc;
-using WebKaraoke.Business.Services;
+using Microsoft.EntityFrameworkCore;
+using WebKaraoke.Data;
+using WebKaraoke.Data.Models;
 
 namespace WebKaraoke.API.Controllers
 {
     [ApiController]
-    [Route("api/phong")] // This sets the base URL for this controller
+    [Route("api/[controller]")]
     public class PhongController : ControllerBase
     {
-        private readonly PhongService _phongService;
+        private readonly WebKaraokeDbContext _context;
 
-        public PhongController(PhongService phongService)
+        public PhongController(WebKaraokeDbContext context)
         {
-            _phongService = phongService;
+            _context = context;
         }
 
-        // This creates an endpoint at the URL: GET /api/phong/available
-        [HttpGet("available")]
-        public async Task<IActionResult> GetAvailableRooms()
+        // GET: api/phong
+        [HttpGet]
+        public async Task<ActionResult<IEnumerable<Phong>>> GetPhongs()
         {
-            var rooms = await _phongService.GetAvailableRoomsAsync();
-            return Ok(rooms); // Returns a 200 OK status with the list of rooms
+            return await _context.Phong.ToListAsync();
+        }
+
+        // GET: api/phong/5
+        [HttpGet("{id}")]
+        public async Task<ActionResult<Phong>> GetPhong(int id)
+        {
+            var phong = await _context.Phong.FindAsync(id);
+            if (phong == null) return NotFound();
+            return phong;
+        }
+
+        // GET: api/phong/trong
+        [HttpGet("trong")]
+        public async Task<ActionResult<IEnumerable<Phong>>> GetPhongTrong()
+        {
+            return await _context.Phong
+                .Where(p => p.TrangThai == "Trong")
+                .ToListAsync();
+        }
+
+        // GET: api/phong/loai/VIP
+        [HttpGet("loai/{loaiPhong}")]
+        public async Task<ActionResult<IEnumerable<Phong>>> GetPhongTheoLoai(string loaiPhong)
+        {
+            return await _context.Phong
+                .Where(p => p.LoaiPhong == loaiPhong)
+                .ToListAsync();
+        }
+
+        // POST: api/phong
+        [HttpPost]
+        public async Task<ActionResult<Phong>> PostPhong(Phong phong)
+        {
+            _context.Phong.Add(phong);
+            await _context.SaveChangesAsync();
+            return CreatedAtAction(nameof(GetPhong), new { id = phong.PhongID }, phong);
+        }
+
+        // PUT: api/phong/5
+        [HttpPut("{id}")]
+        public async Task<IActionResult> PutPhong(int id, Phong phong)
+        {
+            if (id != phong.PhongID) return BadRequest();
+            _context.Entry(phong).State = EntityState.Modified;
+            await _context.SaveChangesAsync();
+            return NoContent();
+        }
+
+        // PATCH: api/phong/5/trangthai
+        [HttpPatch("{id}/trangthai")]
+        public async Task<IActionResult> UpdateTrangThai(int id, [FromBody] string trangThai)
+        {
+            var phong = await _context.Phong.FindAsync(id);
+            if (phong == null) return NotFound();
+            
+            phong.TrangThai = trangThai;
+            await _context.SaveChangesAsync();
+            return NoContent();
+        }
+
+        // DELETE: api/phong/5
+        [HttpDelete("{id}")]
+        public async Task<IActionResult> DeletePhong(int id)
+        {
+            var phong = await _context.Phong.FindAsync(id);
+            if (phong == null) return NotFound();
+            
+            _context.Phong.Remove(phong);
+            await _context.SaveChangesAsync();
+            return NoContent();
         }
     }
 }

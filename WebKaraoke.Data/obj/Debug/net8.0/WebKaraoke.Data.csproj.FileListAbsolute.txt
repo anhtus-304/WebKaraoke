@@ -13,3 +13,21 @@ C:\Users\hoanh\Documents\HCMUE\2025-2026-1st Semester\COMP1044-CNPM\Karaoke\WebK
 C:\Users\hoanh\Documents\HCMUE\2025-2026-1st Semester\COMP1044-CNPM\Karaoke\WebKaraoke\WebKaraoke.Data\obj\Debug\net8.0\WebKaraoke.Data.pdb
 C:\Users\hoanh\Documents\HCMUE\2025-2026-1st Semester\COMP1044-CNPM\Karaoke\WebKaraoke\WebKaraoke.Data\obj\Debug\net8.0\WebKaraoke.Data.genruntimeconfig.cache
 C:\Users\hoanh\Documents\HCMUE\2025-2026-1st Semester\COMP1044-CNPM\Karaoke\WebKaraoke\WebKaraoke.Data\obj\Debug\net8.0\ref\WebKaraoke.Data.dll
+D:\WebKaraoke\WebKaraoke.Data\bin\Debug\net8.0\WebKaraoke.Data.deps.json
+D:\WebKaraoke\WebKaraoke.Data\bin\Debug\net8.0\WebKaraoke.Data.runtimeconfig.json
+D:\WebKaraoke\WebKaraoke.Data\bin\Debug\net8.0\WebKaraoke.Data.dll
+D:\WebKaraoke\WebKaraoke.Data\bin\Debug\net8.0\WebKaraoke.Data.pdb
+D:\WebKaraoke\WebKaraoke.Data\bin\Debug\net8.0\WebKaraoke.DTO.dll
+D:\WebKaraoke\WebKaraoke.Data\bin\Debug\net8.0\WebKaraoke.DTO.pdb
+D:\WebKaraoke\WebKaraoke.Data\obj\Debug\net8.0\WebKaraoke.Data.csproj.AssemblyReference.cache
+D:\WebKaraoke\WebKaraoke.Data\obj\Debug\net8.0\WebKaraoke.Data.GeneratedMSBuildEditorConfig.editorconfig
+D:\WebKaraoke\WebKaraoke.Data\obj\Debug\net8.0\WebKaraoke.Data.AssemblyInfoInputs.cache
+D:\WebKaraoke\WebKaraoke.Data\obj\Debug\net8.0\WebKaraoke.Data.AssemblyInfo.cs
+D:\WebKaraoke\WebKaraoke.Data\obj\Debug\net8.0\WebKaraoke.Data.csproj.CoreCompileInputs.cache
+D:\WebKaraoke\WebKaraoke.Data\obj\Debug\net8.0\WebKaraoke.Data.sourcelink.json
+D:\WebKaraoke\WebKaraoke.Data\obj\Debug\net8.0\WebKarao.0DE85086.Up2Date
+D:\WebKaraoke\WebKaraoke.Data\obj\Debug\net8.0\WebKaraoke.Data.dll
+D:\WebKaraoke\WebKaraoke.Data\obj\Debug\net8.0\refint\WebKaraoke.Data.dll
+D:\WebKaraoke\WebKaraoke.Data\obj\Debug\net8.0\WebKaraoke.Data.pdb
+D:\WebKaraoke\WebKaraoke.Data\obj\Debug\net8.0\WebKaraoke.Data.genruntimeconfig.cache
+D:\WebKaraoke\WebKaraoke.Data\obj\Debug\net8.0\ref\WebKaraoke.Data.dll

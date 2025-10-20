@@ -1483,7 +1483,8 @@
         "framework": ".NETCoreApp,Version=v8.0",
         "dependencies": {
           "Microsoft.EntityFrameworkCore.SqlServer": "8.0.0",
-          "Microsoft.EntityFrameworkCore.Tools": "8.0.0"
+          "Microsoft.EntityFrameworkCore.Tools": "8.0.0",
+          "WebKaraoke.DTO": "1.0.0"
         },
         "compile": {
           "bin/placeholder/WebKaraoke.Data.dll": {}
@@ -4049,42 +4050,35 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\hoanh\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+    "C:\\Users\\atusj\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\hoanh\\Documents\\HCMUE\\2025-2026-1st Semester\\COMP1044-CNPM\\Karaoke\\WebKaraoke\\WebKaraoke.Business\\WebKaraoke.Business.csproj",
+      "projectUniqueName": "D:\\WebKaraoke\\WebKaraoke.Business\\WebKaraoke.Business.csproj",
       "projectName": "WebKaraoke.Business",
-      "projectPath": "C:\\Users\\hoanh\\Documents\\HCMUE\\2025-2026-1st Semester\\COMP1044-CNPM\\Karaoke\\WebKaraoke\\WebKaraoke.Business\\WebKaraoke.Business.csproj",
-      "packagesPath": "C:\\Users\\hoanh\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\hoanh\\Documents\\HCMUE\\2025-2026-1st Semester\\COMP1044-CNPM\\Karaoke\\WebKaraoke\\WebKaraoke.Business\\obj\\",
+      "projectPath": "D:\\WebKaraoke\\WebKaraoke.Business\\WebKaraoke.Business.csproj",
+      "packagesPath": "C:\\Users\\atusj\\.nuget\\packages\\",
+      "outputPath": "D:\\WebKaraoke\\WebKaraoke.Business\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-      ],
       "configFilePaths": [
-        "C:\\Users\\hoanh\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "C:\\Users\\atusj\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net8.0"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Users\\hoanh\\Documents\\HCMUE\\2025-2026-1st Semester\\COMP1044-CNPM\\Karaoke\\WebKaraoke\\WebKaraoke.Data\\WebKaraoke.Data.csproj": {
-              "projectPath": "C:\\Users\\hoanh\\Documents\\HCMUE\\2025-2026-1st Semester\\COMP1044-CNPM\\Karaoke\\WebKaraoke\\WebKaraoke.Data\\WebKaraoke.Data.csproj"
+            "D:\\WebKaraoke\\WebKaraoke.Data\\WebKaraoke.Data.csproj": {
+              "projectPath": "D:\\WebKaraoke\\WebKaraoke.Data\\WebKaraoke.Data.csproj"
             },
-            "C:\\Users\\hoanh\\Documents\\HCMUE\\2025-2026-1st Semester\\COMP1044-CNPM\\Karaoke\\WebKaraoke\\WebKaraoke.DTO\\WebKaraoke.DTO.csproj": {
-              "projectPath": "C:\\Users\\hoanh\\Documents\\HCMUE\\2025-2026-1st Semester\\COMP1044-CNPM\\Karaoke\\WebKaraoke\\WebKaraoke.DTO\\WebKaraoke.DTO.csproj"
+            "D:\\WebKaraoke\\WebKaraoke.DTO\\WebKaraoke.DTO.csproj": {
+              "projectPath": "D:\\WebKaraoke\\WebKaraoke.DTO\\WebKaraoke.DTO.csproj"
             }
           }
         }

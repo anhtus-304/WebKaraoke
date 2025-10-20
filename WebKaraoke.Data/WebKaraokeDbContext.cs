@@ -10,7 +10,7 @@ namespace WebKaraoke.Data
         {
         }
 
-        // 🔥 QUAN TRỌNG: THÊM TẤT CẢ CÁC DBSET PROPERTIES
+        // QUAN TRỌNG: THÊM TẤT CẢ CÁC DBSET PROPERTIES
         public DbSet<KhachHang> KhachHang { get; set; } = null!;
         public DbSet<Phong> Phongs { get; set; } = null!;
         public DbSet<DatPhong> DatPhong { get; set; } = null!;
@@ -25,7 +25,7 @@ namespace WebKaraoke.Data
         {
             base.OnModelCreating(modelBuilder);
 
-            // 🔥 CẤU HÌNH PRIMARY KEYS
+            // CẤU HÌNH PRIMARY KEYS
             modelBuilder.Entity<KhachHang>().HasKey(k => k.KhachHangID);
             modelBuilder.Entity<Phong>().HasKey(p => p.PhongID);
             modelBuilder.Entity<DatPhong>().HasKey(d => d.DatPhongID);

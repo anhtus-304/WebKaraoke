@@ -12,7 +12,7 @@ namespace WebKaraoke.Data
 
         // 🔥 QUAN TRỌNG: THÊM TẤT CẢ CÁC DBSET PROPERTIES
         public DbSet<KhachHang> KhachHang { get; set; } = null!;
-        public DbSet<Phong> Phong { get; set; } = null!;
+        public DbSet<Phong> Phongs { get; set; } = null!;
         public DbSet<DatPhong> DatPhong { get; set; } = null!;
         public DbSet<HoaDon> HoaDon { get; set; } = null!;
         public DbSet<ChiTietHoaDon> ChiTietHoaDon { get; set; } = null!;
